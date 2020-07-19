@@ -1,0 +1,2 @@
+David,Male,30,Developer,100000
+Poppens,Female,28,HR,80000
